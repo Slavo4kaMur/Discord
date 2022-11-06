@@ -1,0 +1,32 @@
+/**
+ * @name PurpleNight
+ * @author HatsuneWin
+ * @version 777
+ * @description Purple version
+ * @source https://vk.com/hatsune_sexsy
+ */
+
+@import url('https://raw.githubusercontent.com/Slavo4kaMur/DiscordHatsune/main/MainCore.css');
+@import url('https://raw.githack.com/Slavo4kaMur/DiscordHatsune/main/core1.css');
+
+:root{
+    --background: url('https://i.ibb.co/GRZLP5v/image.png');
+    --activetext-colour: white;
+
+    --online-color: #43b581; /* online status color (hex, rgb or hsl) [default: #43b581] */
+    --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
+
+    --primary1-colour: purple;
+    --primary2-colour: rgba(138, 36, 158, 1);
+    --primary3-colour: rgba(206, 122, 255, 1);
+
+    --secondary1-colour: rgba(50,50,50,0.3);
+    --secondary2-colour: rgba(100,100,100,0.5);
+    --secondary3-colour: rgba(0,0,0,0.5);
+
+    --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+}
